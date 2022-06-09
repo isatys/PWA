@@ -1,0 +1,29 @@
+[
+    {
+        "title": "DATA ENGINEER & DATA SCIENTIST",
+        "descritpion": "Développez, testez et mettez en place des architectures datas. Votre mission, si vous l’acceptez, est de créer des bases de données, d’en définir les modèles les plus pertinents puis de les analyser et de les expoiter afin de dégager des conseils et préconisations d’améliorations pour une meilleure efficacité et performance de l’entreprise."
+    }, 
+    {
+        "title": "EXPERT DEVOPS",
+        "descritpion": "Doté d’une vision 360 du domaine de l’informatique, vous êtes force de proposition en matière d’industrialisation des activités de l’entreprise.Habité par le sens du service, vous automatisez, fluidifiez et accélérez les process de l’entreprise afin de permettre aux différents services de gagner en créativité et efficacité !"
+    },
+    {
+        "title": "EXPERT EN CLOUD, SÉCURITÉ & INFRASTRUCTURE",
+        "descritpion": "Devenez l’élément incontournable de votre entreprise ! En charge du déploiement, du stockage, de la gestion/virtualisation et de la sécurité des données sur serveur, vous êtes le responsable du système d’information de l’entreprise. Vous en définissez la stratégie, les besoins et proposez des solutions adaptées aux besoins des utilisateurs."},
+    {
+        "title": "EXPERT EN CYBERSÉCURITÉ",
+        "descritpion": "Relevez le défi quotidien de protéger les données et de traquer les failles de sécurité du système d’information dont vous êtes responsable !Avec votre vision globale des enjeux et des systèmes, vous savez aussi bien anticiper les dysfonctionnements et les vulnérabilités que déjouer les tentatives d’intrusions des hackers."},
+    {
+        "title": "EXPERT EN DÉVELOPPEMENT LOGICIEL, MOBILE & IOT",
+        "descritpion": "Spécialiste de la conception et du développement d’applications pour ordinateurs, mobiles et objets connectés, vous êtes le garant d’un développement sur mesure pour vos clients ou votre entreprise."},
+    {
+        "title": "EXPERT EN DÉVELOPPEMENT WEB",
+        "descritpion": "Si créer, refondre un site web, proposer de nouvelles fonctionnalités, en assurer la maintenance et la sécurité sont des missions qui vous motivent, vous êtes au bon endroit ! Devenez spécialiste de la conception d’applications web complexes que vous développerez selon les besoins clients et en fonction d’un planning et d’un workflow que vous définirez."},
+    {
+        "title": "EXPERT EN INTELLIGENCE ARTIFICIELLE",
+        "descritpion": "Du support client à la bio-informatique en passant par les voitures autonomes, les robots industriels ou les jeux vidéo, les applications de l’intelligence artificielle sont quasi infinies ! Maîtrisez les techniques permettant aux machines d’imiter une forme d’intelligence humaine et concevez des programmes leur permettant de travailler et évoluer par elles-mêmes."},
+    {
+        "title": "GAME PROGRAMMER & DESIGNER",
+        "descritpion": "Adeptes de code et de programmation, vous maîtriserez les spécifications techniques d’un projet de jeu, serez capable de programmer des gameplays et de développer des outils pour faciliter le projet avec votre équipe."}
+
+]

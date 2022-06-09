@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;;
+  background-color: rgb(54, 54, 54);
+  color: aliceblue;
+}
+
+td,th{
+  text-align: left;
+  border-bottom: 1px solid rgb(218, 201, 201);
+}
+
+table{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+th {
+  background-color: #525f97;
+}
+
+div{
+  
+  line-height: 2.5;
+  overflow: auto;
+}

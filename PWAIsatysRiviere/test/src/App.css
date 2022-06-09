@@ -1,0 +1,15 @@
+.cards {
+  display: grid;
+  width: 80%;
+  margin-left: 10%;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-gap: 20px;
+}
+
+.card {
+  padding-left: 10%;
+  width: 80%;
+  display: grid;
+  grid-template-rows: max-content 200px 1fr;
+  background-color: black;
+}
